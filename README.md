@@ -31,5 +31,5 @@ This repository contains machine learning experiments focused on classification 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/comet-ml.git
+   git clone https://github.com/nastaransh/comet-ml.git
    cd your-repo-name
