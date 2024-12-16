@@ -32,4 +32,7 @@ This repository contains machine learning experiments focused on classification 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/nastaransh/comet-ml.git
-   cd your-repo-name
+   cd comt-ml
+   ```
+   2. Open the codes in Jupyter (Colab or any other platforms) and run them
+  
