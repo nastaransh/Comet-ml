@@ -19,9 +19,10 @@ This repository contains machine learning experiments focused on classification 
 
 ## Requirements  
 
-- Python 3.8+
+- Python 3.10+
 - [Comet.ml API Key](https://www.comet.com/)
-- Required libraries:  
+- Required libraries:
+- Required libraries (install with `pip install -r requirements.txt`): 
   - TensorFlow or PyTorch  
   - scikit-learn  
   - Comet.ml  
